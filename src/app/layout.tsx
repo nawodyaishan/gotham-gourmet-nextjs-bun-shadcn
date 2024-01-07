@@ -18,16 +18,18 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body className={inter.className}>
-      <ThemeProvider
-        attribute='"lass'"        defaultTheme='"ark'"        enableSystem
-        disableTransitionOnChange
-      >
-        <nav>
-          <h1>Gotham's Gourmet</h1>
-          <h3>Culinary Adventures from the Batcave</h3>
-        </nav>
-        {children}
-      </ThemeProvider>
+        <ThemeProvider
+          attribute='class'
+          defaultTheme='system'
+          enableSystem
+          disableTransitionOnChange
+        >
+          <nav>
+            <h1>Gothams Gourmet</h1>
+            <h3>Culinary Adventures from the Batcave</h3>
+          </nav>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );
