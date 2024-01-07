@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef8ba637-d89c-4a97-ae54-2fa3558f4baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/definitions/i-recipe-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/recipe-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/_data/recipe-data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +62,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nawodyaishan/Documents/GitHub/nextjs-bun-shadcn/public/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +89,12 @@
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
       </map>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.format:fix">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -155,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704618740019</updated>
-      <workItem from="1704618741236" duration="4152000" />
+      <workItem from="1704618741236" duration="5537000" />
     </task>
     <task id="LOCAL-00001" summary="fea: add next project">
       <option name="closed" value="true" />
@@ -205,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704621914674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add recipe cards">
+      <option name="closed" value="true" />
+      <created>1704622936648</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704622936648</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +249,8 @@
     <MESSAGE value="fix: update project structure" />
     <MESSAGE value="feat: add prettier" />
     <MESSAGE value="feat: add data" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add data" />
+    <MESSAGE value="feat: add recipe cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add recipe cards" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

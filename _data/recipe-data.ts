@@ -4,8 +4,7 @@ export const recipeData: IRecipeData[] = [
   {
     id: 1,
     title: 'Batwing Tacos',
-    image:
-      'Description: Crispy, bat-shaped taco shells filled with spiced black beans, purple cabbage, and a tangy lime dressing.',
+    image: '1.png',
     time: '30 minutes',
     description:
       'Enjoy a gothic twist on classic tacos with these Batwing Tacos. The shells are creatively shaped like bat wings, adding a playful touch to your meal.',
@@ -14,8 +13,7 @@ export const recipeData: IRecipeData[] = [
   {
     id: 2,
     title: 'Gotham Nightshade Soup',
-    image:
-      'Description: A dark, rich soup with edible nightshade berries, with a swirl of cream forming the Bat-Signal.',
+    image: '2.png',
     time: '45 minutes',
     description:
       'Dive into the mysterious flavors of Gotham with this Nightshade Soup. The cream swirls into the Bat-Signal, offering a nod to the Dark Knight.',
@@ -24,8 +22,7 @@ export const recipeData: IRecipeData[] = [
   {
     id: 3,
     title: "Joker's Wild Berry Parfait",
-    image:
-      "Description: Layers of green and purple yogurt, topped with wild berries and a sprinkle of nuts, capturing the essence of the Joker's chaotic style.",
+    image: '3.png',
     time: '15 minutes',
     description:
       'This vibrant parfait is a playful homage to the Joker, with colorful layers and a wild mix of flavors.',
@@ -34,8 +31,7 @@ export const recipeData: IRecipeData[] = [
   {
     id: 4,
     title: 'Batmobile Smoothie Bowl',
-    image:
-      'Description: A sleek, black charcoal smoothie bowl, garnished with banana wheels and a trail of mixed berries.',
+    image: '4.png',
     time: '20 minutes',
     description:
       'Fuel up like Batman with this Batmobile-inspired smoothie bowl, featuring a bold design and nutritious ingredients.',
@@ -44,11 +40,56 @@ export const recipeData: IRecipeData[] = [
   {
     id: 5,
     title: "Riddler's Puzzle Pizza",
-    image:
-      'Description: A pizza with question mark-shaped pepperoni slices and a maze of cheese.',
+    image: '5.png',
     time: '40 minutes',
     description:
       "Solve the Riddler's culinary riddle with this uniquely designed pizza, challenging and delicious in equal measure.",
     isVegan: false,
+  },
+
+  {
+    id: 6,
+    title: "Alfred's English Breakfast",
+    image: '6.png',
+    time: '25 minutes',
+    description:
+      "Inspired by Bruce Wayne's butler, Alfred, this hearty English breakfast features a bat-shaped fried egg, bringing a touch of Wayne Manor to your morning.",
+    isVegan: false,
+  },
+  {
+    id: 7,
+    title: "Catwoman's Prowl Pasta",
+    image: '7.png',
+    time: '30 minutes',
+    description:
+      'Embrace the elegance and mystery of Catwoman with this black squid ink spaghetti, a simple yet seductive dish.',
+    isVegan: false,
+  },
+  {
+    id: 8,
+    title: "Bane's Power Protein Bowl",
+    image: '8.png',
+    time: '20 minutes',
+    description:
+      "Fuel your inner strength with Bane's Power Protein Bowl, packed with healthy proteins and greens for a powerful boost.",
+    isVegan: false,
+  },
+  {
+    id: 9,
+    title: "Harley Quinn's Sweet and Spicy Popcorn",
+    image: '9.png',
+    time: '10 minutes',
+    description:
+      "Get a taste of Harley Quinn's wild side with this sweet and spicy popcorn, a perfect snack for movie nights or adventurous gatherings.",
+    isVegan: true,
+  },
+  {
+    id: 10,
+    title: "Mr. Freeze's Chilled Blueberry Gazpacho",
+    image: '10.png',
+    time: '15 minutes',
+    description:
+      "Cool down with Mr. Freeze's Chilled Blueberry Gazpacho, a refreshing and unique twist on the traditional gazpacho, perfect for hot summer days.",
+    isVegan: true,
   },
 ];
