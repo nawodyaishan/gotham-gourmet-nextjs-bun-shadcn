@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef8ba637-d89c-4a97-ae54-2fa3558f4baa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SkeletonCard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/recipe-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/_data/recipe-data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704618740019</updated>
-      <workItem from="1704618741236" duration="5537000" />
+      <workItem from="1704618741236" duration="6374000" />
     </task>
     <task id="LOCAL-00001" summary="fea: add next project">
       <option name="closed" value="true" />
@@ -230,7 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704622936648</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: add avatrs and buttons styling">
+      <option name="closed" value="true" />
+      <created>1704624351844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704624351844</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add  badge">
+      <option name="closed" value="true" />
+      <created>1704624376836</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704624376836</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +254,9 @@
     <MESSAGE value="feat: add prettier" />
     <MESSAGE value="feat: add data" />
     <MESSAGE value="feat: add recipe cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add recipe cards" />
+    <MESSAGE value="feat: add avatrs and buttons styling" />
+    <MESSAGE value="feat: add  badge" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add  badge" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
