@@ -46,9 +46,7 @@ export default async function Home() {
               </CardContent>
               <CardFooter className={'justify-between'}>
                 <Button variant={'default'}>View Recipe</Button>
-                {recipe.isVegan && (
-                  <Badge variant={'destructive'}>Vegan!</Badge>
-                )}
+                {recipe.isVegan && <Badge variant={'outline'}>Vegan!</Badge>}
               </CardFooter>
             </Card>
           ))}
