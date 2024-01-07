@@ -1,11 +1,4 @@
-interface IRecipeData {
-  id: number;
-  title: string;
-  image: string;
-  time: string;
-  description: string;
-  isVegan: boolean;
-}
+import { IRecipeData } from '@/lib/definitions/i-recipe-data';
 
 export const recipeData: IRecipeData[] = [
   {

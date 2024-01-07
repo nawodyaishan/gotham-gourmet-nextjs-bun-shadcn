@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef8ba637-d89c-4a97-ae54-2fa3558f4baa" name="Changes" comment="feat: add prettier">
-      <change afterPath="$PROJECT_DIR$/_data/recipe-data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+    <list default="true" id="ef8ba637-d89c-4a97-ae54-2fa3558f4baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lib/definitions/i-recipe-data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/recipe-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/_data/recipe-data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704618740019</updated>
-      <workItem from="1704618741236" duration="3160000" />
+      <workItem from="1704618741236" duration="4152000" />
     </task>
     <task id="LOCAL-00001" summary="fea: add next project">
       <option name="closed" value="true" />
@@ -190,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704620538538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: add data">
+      <option name="closed" value="true" />
+      <created>1704621914674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704621914674</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +223,8 @@
     <MESSAGE value="fea: add shadcn" />
     <MESSAGE value="fix: update project structure" />
     <MESSAGE value="feat: add prettier" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add prettier" />
+    <MESSAGE value="feat: add data" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add data" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
